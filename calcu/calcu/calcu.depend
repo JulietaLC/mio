@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554434331 source:c:\users\leivaju\tp_laboratorio_1\calcu\calcu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1554433440 c:\users\leivaju\tp_laboratorio_1\calcu\calcu\calculadora.h
+
+1554434331 source:c:\users\leivaju\tp_laboratorio_1\calcu\calcu\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
